@@ -1,1 +1,34 @@
 /* Add CSS Styling */
+
+/* class selectors as descendant combinator*/
+/* .container .text {
+    background-color: rgb(255, 255, 55);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* type selectors as descendant combinator*/
+
+/* div p {
+    background-color: rgb(255, 255, 55);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* type and class selectors as descendant combinator */
+
+/* div .text {
+    background-color: rgb(255, 255, 55);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+.container p {
+    background-color: rgb(255, 255, 55);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
